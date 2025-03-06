@@ -1,0 +1,19 @@
+{
+  "name": "02-challenge",
+  "version": "1.0.0",
+  "description": "Challenge",
+  "keywords": [
+    "no"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "no"
+  },
+  "license": "ISC",
+  "author": "n",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "run"
+  }
+}
