@@ -8,10 +8,6 @@ Your Challenge this week is to add authentication with JWT to an existing Kanban
 
 The Kanban board application has already been created. It's your job to complete the UI for the login page, add authentication with JWT to the server API, and then deploy the entire application to Render.
 
-> **important** Make sure to download and unzip the starter code files and make your own repository with the starter code.
-
-Before you start, download the [starter code](https://static.bc-edx.com/coding/software-dev/14-Full-Stack-React/Develop.zip).
-
 ## User Story
 
 ```md
