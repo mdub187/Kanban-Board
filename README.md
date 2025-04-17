@@ -78,9 +78,6 @@ You can refer to the [Deploy with Render and PostgreSQL guide](https://coding-bo
 
 * Use Insomnia to test the server API directly.
 
-  * Download and unzip this [JSON file](https://static.bc-edx.com/coding/software-dev/14-Full-Stack-React/assets/Insomnia_M14_Challenge.zip) to import a request collection into Insomnia.
-
-
 ## Bonus
 
 As a bonus exercise, try adding the capability to sort and filter the list of tickets in the Kanban board.
